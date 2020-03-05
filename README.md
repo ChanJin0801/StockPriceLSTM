@@ -2,7 +2,7 @@
 
 This project is predicting Samsung stock price and Ethereum stock price by LSTM. 
 
-The result was not good, but it was good chance to study differnce between training model with the prediction results at the same time and not.
+The result was not good, but it was good chance to study difference between training model with the prediction results at the same time and not.
 According to the training model with the prediction results at the same time, prediction of stock price by LSTM seems impossible.
 
 ## Predict a few days(training model not with prediction results) = wrong model
